@@ -1,1 +1,1 @@
-# next12
+# next.js 연습
